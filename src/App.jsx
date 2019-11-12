@@ -7,7 +7,7 @@ class App extends React.Component{
     constructor(props){
       super(props)
       this.state = {
-          toolName: 'songyao-cli'
+          toolName: 'songyao-cli(React 模板)'
       }
     }
     componentDidMount() {
