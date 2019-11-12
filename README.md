@@ -21,3 +21,7 @@ In the project directory, you can run:
 暴露配置文件
 
 
+### 教程
+See [逐梦博客](http://47.100.126.169/zmengBlog).
+
+
